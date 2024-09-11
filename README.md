@@ -40,4 +40,9 @@ jupyter notebook Run_GLM_for_github.ipynb
 
 ```
 
-Any questions on implementation can be addressed to hnjacobs@mit.edu
+This package is in junction with the following paper:
+Widespread naturally variable human exons aid genetic interpretation
+Which is currently in review
+Please cite this paper if you use this package in your research.
+
+Please feel free to send any questions on implementation to hnjacobs@mit.edu, she'd be happy to help :) 
