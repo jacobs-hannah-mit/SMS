@@ -12,14 +12,24 @@ SMS full model and submodels can be retrained and tested in this code
 
 
 ## Step-by-Step Instructions
+### 0. clone the github
 
-### 1. Fetch sQTL variants
+### 1. import the environment using yaml file
+```
+conda env create SMS_environment.yaml 
+```
+then activate the environment
+```
+conda activate SMS_environment
+```
+
+### 2. Fetch sQTL variants data
 ```
 wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1QGM2GBtwzVA07bO_udLj5r3E8oSlMizf' -O sQTLs_for_model_fit.csv.gz
 ```
 
 
-### 2. Run this notebook
+### 3. Run this notebook
 
 
 ```
