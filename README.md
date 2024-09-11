@@ -16,7 +16,7 @@ SMS full model and submodels can be retrained and tested in this code
 
 ### 1. import the environment using yaml file
 ```
-conda env create SMS_environment.yaml 
+conda env create -f SMS_environment.yml 
 ```
 then activate the environment
 ```
