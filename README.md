@@ -10,13 +10,21 @@ GTEx SMS scores can be intersected with your GWAS variants of interest, providin
 SMS full model and submodels can be retrained and tested in this code
 
 
+
 ## Step-by-Step Instructions
 
-### 1. Run this notebook
+### 1. Fetch sQTL variants
+```
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1QGM2GBtwzVA07bO_udLj5r3E8oSlMizf' -O sQTLs_for_model_fit.csv.gz
+```
+
+
+### 2. Run this notebook
 
 
 ```
-03_Run_GLM_for_github.ipynb
+jupyter notebook Run_GLM_for_github.ipynb
+
 ```
 
 Any questions on implementation can be addressed to hnjacobs@mit.edu
