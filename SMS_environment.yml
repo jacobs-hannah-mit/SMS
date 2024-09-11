@@ -1,8 +1,0 @@
-name: hj-env
-channels:
-  - defaults
-dependencies:
-  - bioconda::ucsc-bedtogenepred
-  - bioconda::ucsc-genepredtogtf
-  - jupyter
-prefix: /opt/anaconda3/envs/hj-env

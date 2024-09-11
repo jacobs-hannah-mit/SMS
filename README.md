@@ -12,11 +12,14 @@ SMS full model and submodels can be retrained and tested in this code
 
 
 ## Step-by-Step Instructions
-### 0. clone the github
-
+### 0. clone the github and cd into package folder
+```
+git clone https://github.com/jacobs-hannah-mit/SMS.git
+cd SMS
+```
 ### 1. import the environment using yaml file
 ```
-conda env create -f SMS_environment.yml 
+conda env create -f SMS_environment.yaml 
 ```
 then activate the environment
 ```
