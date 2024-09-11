@@ -28,7 +28,7 @@ conda activate SMS_environment
 
 ### 2. Fetch sQTL variants data
 ```
-wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1QGM2GBtwzVA07bO_udLj5r3E8oSlMizf' -O sQTLs_for_model_fit.csv.gz
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1IuIOGlbgYw_RhG1rfIQM0uH-KIL0xgqf' -O sQTLs_for_model_fit.csv.gz
 ```
 
 
