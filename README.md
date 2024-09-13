@@ -41,5 +41,5 @@ This package is in junction with the following paper:
 Widespread naturally variable human exons aid genetic interpretation
 Which is currently in review
 Please cite this paper if you use this package in your research.
-
+https://www.biorxiv.org/content/10.1101/2024.09.09.612029v1
 Please feel free to send any questions on implementation to hnjacobs@mit.edu, she'd be happy to help :) 
