@@ -27,10 +27,7 @@ conda activate SMS_environment
 ```
 
 ### 2. Fetch sQTL variants data
-```
-wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1IuIOGlbgYw_RhG1rfIQM0uH-KIL0xgqf' -O sQTLs_for_model_fit.csv.gz
-```
-
+https://drive.google.com/file/d/1IuIOGlbgYw_RhG1rfIQM0uH-KIL0xgqf/view?usp=share_link
 
 ### 3. Run this notebook
 
