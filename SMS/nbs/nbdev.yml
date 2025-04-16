@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "SMS"
+  site-url: "https://hannah.nicole.jacobs.github.io/SMS"
+  description: "SMS repo"
+  repo-branch: initial commit
+  repo-url: "https://github.com/hannah.nicole.jacobs/SMS"
